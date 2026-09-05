@@ -1,4 +1,3 @@
-# AegisLOB
 # AegisLOB — Ghost Liquidity & Flash Crash Surveillance Terminal
 
 > Production-grade real-time market surveillance system predicting **flash crashes (>1.5% price drop within 10s)** and detecting **ghost liquidity drains** with sub-5ms model inference latency.
